@@ -1,15 +1,13 @@
 language: java
 
-# skip installation step
+#skip installation step
 install: true
 
 sudo: false
 
 cache:
-directories:
-- $HOME/.m2
+	directories:
+	- $HOME/.m2
 
-# option -f, forza l'uso di pom.xml alternativo
 script:
-- mvn -f com.shopOnline.NBAshop/pom.xml clean verify -Pjacoco-report
-coveralls:report
+	mvn -f com.shopOnline.NBAshop/pom.xml clean verify -Pjacoco-report coveralls:report
