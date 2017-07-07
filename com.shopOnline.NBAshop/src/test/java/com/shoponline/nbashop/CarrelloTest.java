@@ -52,11 +52,6 @@ public class CarrelloTest {
 		}
 	}
 
-	/*@Test
-	public void testSameType() {
-		
-	}*/
-
 	private void assertNumberSingleProduct(int numeroProdotti) {
 		if (numeroProdotti == 0) {
 			LOGGER.info("Si sta richiamando addItem() non passandogli nessun oggetto");
