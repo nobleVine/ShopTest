@@ -10,7 +10,7 @@
 	<name>NBAshop</name>
 	<url>http://maven.apache.org</url>
 
-	<!-- SEZIONE PROPRIETà -->
+	<!-- SEZIONE PROP -->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<jacoco.data.file>${project.build.directory}/coveragereports/jacoco.exec</jacoco.data.file>
@@ -19,18 +19,27 @@
 
 	<!-- SEZIONE DIPENDENZE -->
 	<dependencies>
+
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>4.12</version>
 			<scope>test</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
+
 	</dependencies>
 
 
 	<!-- SEZIONE BUILD -->
 	<build>
 		<plugins>
+		
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.1</version>
@@ -39,6 +48,7 @@
 					<target>1.8</target>
 				</configuration>
 			</plugin>
+			
 		</plugins>
 	</build>
 
