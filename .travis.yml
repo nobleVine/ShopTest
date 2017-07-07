@@ -1,13 +1,26 @@
 language: java
 
-#skip installation step
-install: true
-
 sudo: false
 
 cache:
   directories:
   - $HOME/.m2
 
+matrix:
+  fast_finish: true
+  include:
+    - jdk: oraclejdk8
+      env: WITH_COVERALLS=true
+    - jdk: oraclejdk7
+    - jdk: openjdk6
+
+# skip installation step
+install: true
+
 script:
- - mvn -f com.shopOnline.NBAshop/pom.xml clean verify -Pjacoco coveralls:report
+- if [ "$WITH_COVERALLS" == "true" ];
+  then
+    mvn -f com.shopOnline.NBAshop/pom.xml clean verify -Pjacoco coveralls:report;
+  elif [ "${TRAVIS_PULL_REQUEST}" != "false" ]; then
+    mvn -f com.examples.myproject/pom.xml clean verify;
+  fi
