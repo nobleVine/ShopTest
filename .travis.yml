@@ -10,4 +10,4 @@ cache:
   - $HOME/.m2
 
 script:
- mvn -f com.shopOnline.NBAshop/pom.xml clean verify -Pjacoco-report coveralls:report
+ mvn -f /com.shopOnline.NBAshop/pom.xml clean verify -Pjacoco-report coveralls:report
