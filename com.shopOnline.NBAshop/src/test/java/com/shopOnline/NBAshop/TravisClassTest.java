@@ -11,5 +11,7 @@ public class TravisClassTest {
 		TravisClass t = new TravisClass();
 		assertEquals("Travis", t.getStringTravis());
 	}
+	
+	
 
 }
