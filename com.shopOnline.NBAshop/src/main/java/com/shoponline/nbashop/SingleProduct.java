@@ -17,7 +17,9 @@ public class SingleProduct implements Item {
 	}
 
 	public double getPrice() {
-		return price;
+		if (this.price >= 0.0)
+			return price;
+		throw new IllegalArgumentException("Il prezzo minimo è 0: GRATIS");
 	}
 
 	public String getDescription() {

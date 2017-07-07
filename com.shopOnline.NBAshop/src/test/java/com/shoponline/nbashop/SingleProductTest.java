@@ -7,10 +7,6 @@ public class SingleProductTest {
 
 	SingleProduct singleProduct;
 
-	@Before
-	public void setUp() {
-	}
-
 	@Test
 	public void testName() {
 		singleProduct = this.createSingleProduct("Maglietta CupCake", 0, null);
@@ -39,7 +35,7 @@ public class SingleProductTest {
 		assertTrue(input == singleProduct.getPrice());
 	}
 
-	private SingleProduct createSingleProduct(String name, double price, String des){
+	private SingleProduct createSingleProduct(String name, double price, String des) {
 		return new SingleProduct(name, price, des);
 	}
 }
