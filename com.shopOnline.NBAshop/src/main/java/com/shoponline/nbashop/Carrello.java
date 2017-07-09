@@ -11,7 +11,15 @@ public class Carrello {
 	}
 
 	public void addItem(Item item) {
-		listaCarrello.add(item);
+		this.listaCarrello.add(item);
+	}
+
+	public void removeItem(Item item) {
+		this.listaCarrello.remove(item);
+	}
+
+	public int cartSize() {
+		return this.listaCarrello.size();
 	}
 
 }

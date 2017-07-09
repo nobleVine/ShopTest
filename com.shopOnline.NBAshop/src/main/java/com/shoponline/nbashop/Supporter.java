@@ -45,10 +45,6 @@ public class Supporter {
 		this.access = b;
 	}
 	
-	public DBshop getDbshop() {
-		return dbshop;
-	}
-
 	public boolean isAccess() {
 		return access;
 	}

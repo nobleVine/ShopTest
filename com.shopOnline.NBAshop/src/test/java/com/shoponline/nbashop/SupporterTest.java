@@ -72,4 +72,19 @@ public class SupporterTest {
 		verifyNoMoreInteractions(this.dbshop);
 	}
 
+	@Test
+	public void testIsAccessTrue() {
+		assertIsAccess(true);
+		assertTrue(this.supporter.isAccess());
+	}
+
+	@Test
+	public void testIsAccessFalse() {
+		assertFalse(this.supporter.isAccess());
+	}
+
+	private void assertIsAccess(boolean b) {
+		this.supporter.setAccess(b);
+	}
+
 }

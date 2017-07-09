@@ -52,6 +52,14 @@ public class CarrelloTest {
 		}
 	}
 
+	@Test
+	public void testRemoveSingleProduct() {
+		SingleProduct singleProd = this.createSingleProduct("AAA", 34, "description");
+		this.carrello.addItem(singleProd);
+		this.carrello.removeItem(singleProd);
+		assertEquals(0, this.carrello.cartSize());	
+	}
+
 	private void assertNumberSingleProduct(int numeroProdotti) {
 		if (numeroProdotti == 0) {
 			LOGGER.info("Si sta richiamando addItem() non passandogli nessun oggetto");

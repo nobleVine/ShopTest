@@ -55,7 +55,7 @@ public class SingleProductTest {
 	}
 
 	private void assertTestPrice(double input) {
-		assertTrue(input == singleProduct.getPrice());
+		assertTrue(input == this.singleProduct.getPrice());
 	}
 
 	private SingleProduct createSingleProduct(String name, double price, String des) {
