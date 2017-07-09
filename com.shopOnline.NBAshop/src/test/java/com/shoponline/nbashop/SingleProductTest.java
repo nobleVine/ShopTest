@@ -9,26 +9,49 @@ public class SingleProductTest {
 
 	@Test
 	public void testName() {
-		singleProduct = this.createSingleProduct("Maglietta CupCake", 0, null);
+		this.singleProduct = this.createSingleProduct("Maglietta CupCake", 0, null);
 		assertEquals("Maglietta CupCake", singleProduct.getName());
 	}
 
 	@Test
 	public void testPrice60() {
-		singleProduct = this.createSingleProduct(null, 60.0, null);
+		this.singleProduct = this.createSingleProduct(null, 60.0, null);
 		assertTestPrice(60.0);
 	}
 
 	@Test
 	public void testDescription() {
-		singleProduct = this.createSingleProduct(null, 0, "Ti piace vincere facile?");
+		this.singleProduct = this.createSingleProduct(null, 0, "Ti piace vincere facile?");
 		assertEquals("Ti piace vincere facile?", singleProduct.getDescription());
 	}
 
 	@Test(expected = IllegalArgumentException.class)
 	public void testNegativeInput() {
-		singleProduct = this.createSingleProduct("Maglietta CupCake", -5, "Ti piace vincere facile?");
-		assertTestPrice(-5);
+		this.singleProduct = this.createSingleProduct("Maglietta CupCake", -9, "Ti piace vincere facile?");
+	}
+
+	@Test(expected = IllegalArgumentException.class)
+	public void testNotEmptyName() {
+		this.singleProduct = this.createSingleProduct("", 4, "des");
+	}
+
+	@Test(expected = IllegalArgumentException.class)
+	public void testNotEmptyDes() {
+		this.singleProduct = this.createSingleProduct("Marco", 0, "");
+	}
+
+	@Test
+	public void testTipoName() {
+		this.singleProduct = this.createSingleProduct("Vigna", 4, "des");
+		String test = "Vigna";
+		assertTrue(this.singleProduct.getName().equals(test));
+	}
+	
+	@Test
+	public void testTipoDes() {
+		this.singleProduct = this.createSingleProduct("Vigna", 4, "des");
+		String test = "des";
+		assertTrue(this.singleProduct.getDescription().equals(test));
 	}
 
 	private void assertTestPrice(double input) {
@@ -38,4 +61,5 @@ public class SingleProductTest {
 	private SingleProduct createSingleProduct(String name, double price, String des) {
 		return new SingleProduct(name, price, des);
 	}
+
 }
