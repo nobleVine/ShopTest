@@ -10,7 +10,7 @@
 	<name>NBAshop</name>
 	<url>http://maven.apache.org</url>
 
-	<!-- SEZIONE PROP -->
+	<!-- SEZIONE PROPERTY -->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<jacoco.data.file>${project.build.directory}/coveragereports/jacoco.exec</jacoco.data.file>
@@ -28,10 +28,82 @@
 		</dependency>
 
 		<dependency>
+			<groupId>org.mockito</groupId>
+			<artifactId>mockito-all</artifactId>
+			<version>1.10.19</version>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.mongodb</groupId>
+			<artifactId>mongo-java-driver</artifactId>
+			<version>2.14.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.github.fakemongo</groupId>
+			<artifactId>fongo</artifactId>
+			<version>1.6.5</version>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>ch.qos.logback</groupId>
+			<artifactId>logback-classic</artifactId>
+			<version>1.1.1</version>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.jongo</groupId>
+			<artifactId>jongo</artifactId>
+			<version>1.3.0</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/rhino/js -->
+		<dependency>
+			<groupId>rhino</groupId>
+			<artifactId>js</artifactId>
+			<version>1.7R1</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/log4j/log4j -->
+		<dependency>
 			<groupId>log4j</groupId>
 			<artifactId>log4j</artifactId>
 			<version>1.2.17</version>
 		</dependency>
+
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>1.7.5</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-log4j12</artifactId>
+			<version>1.7.5</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.vividsolutions/jts -->
+		<dependency>
+			<groupId>com.vividsolutions</groupId>
+			<artifactId>jts</artifactId>
+			<version>1.11</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind -->
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+			<version>2.1.4</version>
+		</dependency>
+		
+		
+
+
+
 
 	</dependencies>
 
@@ -39,7 +111,7 @@
 	<!-- SEZIONE BUILD -->
 	<build>
 		<plugins>
-		
+
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.1</version>
@@ -48,7 +120,7 @@
 					<target>1.8</target>
 				</configuration>
 			</plugin>
-			
+
 		</plugins>
 	</build>
 

@@ -16,3 +16,351 @@
 2017-07-07 17:43:07 INFO  CarrelloTest:57 - Si sta richiamando addItem() non passandogli nessun oggetto
 2017-07-07 17:46:01 INFO  CarrelloTest:57 - Si sta richiamando addItem() non passandogli nessun oggetto
 2017-07-07 17:51:05 INFO  CarrelloTest:57 - Si sta richiamando addItem() non passandogli nessun oggetto
+2017-07-07 20:04:47 INFO  CarrelloTest:57 - Si sta richiamando addItem() non passandogli nessun oggetto
+2017-07-07 20:08:45 INFO  CarrelloTest:57 - Si sta richiamando addItem() non passandogli nessun oggetto
+2017-07-08 11:41:07 ERROR SupporterTest:61 - Errore nell'immissione delle credenziali
+2017-07-08 11:43:06 ERROR SupporterTest:62 - Errore nell'immissione delle credenziali
+2017-07-08 11:43:06 INFO  SupporterTest:56 - Login effettuato con successo
+2017-07-08 11:46:11 ERROR SupporterTest:63 - Errore nell'immissione delle credenziali
+2017-07-08 11:46:11 INFO  SupporterTest:56 - Login effettuato con successo
+2017-07-08 11:46:30 ERROR SupporterTest:63 - Errore nell'immissione delle credenziali
+2017-07-08 11:46:31 INFO  SupporterTest:56 - Login effettuato con successo
+2017-07-08 11:47:18 ERROR SupporterTest:63 - Errore nell'immissione delle credenziali
+2017-07-08 11:47:18 INFO  SupporterTest:56 - Login effettuato con successo
+2017-07-08 11:51:11 ERROR SupporterTest:64 - Errore nell'immissione delle credenziali
+2017-07-08 11:52:20 ERROR SupporterTest:65 - Errore nell'immissione delle credenziali
+2017-07-08 11:53:52 ERROR SupporterTest:64 - Errore nell'immissione delle credenziali
+2017-07-08 11:54:32 ERROR SupporterTest:66 - Errore nell'immissione delle credenziali
+2017-07-08 11:54:54 ERROR SupporterTest:66 - Errore nell'immissione delle credenziali
+2017-07-08 11:55:27 ERROR SupporterTest:65 - Errore nell'immissione delle credenziali
+2017-07-08 11:55:54 ERROR SupporterTest:65 - Errore nell'immissione delle credenziali
+2017-07-08 11:58:19 ERROR SupporterTest:64 - Errore nell'immissione delle credenziali
+2017-07-08 11:58:19 INFO  SupporterTest:57 - Login effettuato con successo
+2017-07-08 11:59:06 ERROR SupporterTest:65 - Errore nell'immissione delle credenziali
+2017-07-08 11:59:06 INFO  SupporterTest:57 - Login effettuato con successo
+2017-07-08 11:59:59 ERROR SupporterTest:65 - Errore nell'immissione delle credenziali
+2017-07-08 11:59:59 INFO  SupporterTest:57 - Login effettuato con successo
+2017-07-08 12:07:11 ERROR SupporterTest:67 - Errore nell'immissione delle credenziali
+2017-07-08 12:07:11 INFO  SupporterTest:57 - Login effettuato con successo
+2017-07-08 12:07:49 ERROR SupporterTest:67 - Errore nell'immissione delle credenziali
+2017-07-08 12:07:49 INFO  SupporterTest:57 - Login effettuato con successo
+2017-07-08 12:09:40 ERROR SupporterTest:67 - Errore nell'immissione delle credenziali
+2017-07-08 12:09:41 INFO  SupporterTest:57 - Login effettuato con successo
+2017-07-08 12:10:14 ERROR SupporterTest:67 - Errore nell'immissione delle credenziali
+2017-07-08 12:10:15 INFO  SupporterTest:57 - Login effettuato con successo
+2017-07-08 12:10:34 ERROR SupporterTest:67 - Errore nell'immissione delle credenziali
+2017-07-08 12:10:34 INFO  SupporterTest:57 - Login effettuato con successo
+2017-07-08 16:20:05 ERROR SupporterTest:70 - Errore nell'immissione delle credenziali
+2017-07-08 16:20:05 INFO  SupporterTest:60 - Login effettuato con successo
+2017-07-08 16:33:28 INFO  CarrelloTest:57 - Si sta richiamando addItem() non passandogli nessun oggetto
+2017-07-08 16:33:39 ERROR SupporterTest:70 - Errore nell'immissione delle credenziali
+2017-07-08 16:33:39 INFO  SupporterTest:60 - Login effettuato con successo
+2017-07-08 16:37:53 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 16:37:53 DEBUG FongoDBCollection:496 - the db school looks like 0
+2017-07-08 16:37:53 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 16:37:53 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:37:53 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:37:53 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 16:37:53 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}
+2017-07-08 16:37:53 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:37:53 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:37:53 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 16:37:53 DEBUG FongoDBCollection:496 - the db school looks like 1
+2017-07-08 16:37:53 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 16:37:53 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960ee41eb1a72aab789e853"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:37:53 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960ee41eb1a72aab789e853"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:37:53 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:37:53 DEBUG FongoDBCollection:383 - remove: { "name" : "school.supporter"}
+2017-07-08 16:37:53 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 16:37:53 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 16:37:53 DEBUG FongoDBCollection:496 - the db school looks like 0
+2017-07-08 16:37:53 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 16:37:53 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:37:53 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:37:53 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 16:37:53 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}
+2017-07-08 16:37:53 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:37:53 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:37:53 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 16:37:53 DEBUG FongoDBCollection:496 - the db school looks like 1
+2017-07-08 16:37:53 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 16:37:53 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960ee41eb1a72aab789e854"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:37:53 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960ee41eb1a72aab789e854"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:37:53 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:37:53 DEBUG FongoDBCollection:383 - remove: { "name" : "school.supporter"}
+2017-07-08 16:37:53 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 16:39:38 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 16:39:38 DEBUG FongoDBCollection:496 - the db school looks like 0
+2017-07-08 16:39:38 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 16:39:38 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:39:38 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:39:38 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 16:39:38 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}
+2017-07-08 16:39:38 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:39:38 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:39:38 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 16:39:38 DEBUG FongoDBCollection:496 - the db school looks like 1
+2017-07-08 16:39:38 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 16:39:38 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960eeaaeb1a94e90c69195a"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:39:38 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960eeaaeb1a94e90c69195a"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:39:38 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:39:38 DEBUG FongoDBCollection:383 - remove: { "name" : "school.supporter"}
+2017-07-08 16:39:38 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 16:39:38 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 16:39:38 DEBUG FongoDBCollection:496 - the db school looks like 0
+2017-07-08 16:39:38 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 16:39:38 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:39:38 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:39:38 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 16:39:38 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}
+2017-07-08 16:39:38 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:39:38 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:39:38 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 16:39:38 DEBUG FongoDBCollection:496 - the db school looks like 1
+2017-07-08 16:39:38 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 16:39:38 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960eeaaeb1a94e90c69195b"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:39:38 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960eeaaeb1a94e90c69195b"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:39:38 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:39:38 DEBUG FongoDBCollection:383 - remove: { "name" : "school.supporter"}
+2017-07-08 16:39:38 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 16:40:18 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 16:40:18 DEBUG FongoDBCollection:496 - the db school looks like 0
+2017-07-08 16:40:18 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 16:40:18 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:40:18 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:40:18 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 16:40:18 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}
+2017-07-08 16:40:18 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:40:18 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:40:18 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 16:40:18 DEBUG FongoDBCollection:496 - the db school looks like 1
+2017-07-08 16:40:18 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 16:40:18 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960eed2eb1a85d0a30b3359"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:40:18 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960eed2eb1a85d0a30b3359"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:40:18 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:40:18 DEBUG FongoDBCollection:383 - remove: { "name" : "school.supporter"}
+2017-07-08 16:40:18 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 16:40:18 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 16:40:18 DEBUG FongoDBCollection:496 - the db school looks like 0
+2017-07-08 16:40:18 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 16:40:18 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:40:18 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:40:18 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 16:40:18 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}
+2017-07-08 16:40:18 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:40:18 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:40:18 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 16:40:18 DEBUG FongoDBCollection:496 - the db school looks like 1
+2017-07-08 16:40:18 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 16:40:18 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960eed2eb1a85d0a30b335a"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:40:18 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960eed2eb1a85d0a30b335a"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:40:18 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:40:18 DEBUG FongoDBCollection:383 - remove: { "name" : "school.supporter"}
+2017-07-08 16:40:18 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 16:41:15 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 16:41:15 DEBUG FongoDBCollection:496 - the db school looks like 0
+2017-07-08 16:41:15 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 16:41:15 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:41:15 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:41:15 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 16:41:15 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}
+2017-07-08 16:41:15 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:41:15 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:41:15 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 16:41:15 DEBUG FongoDBCollection:496 - the db school looks like 1
+2017-07-08 16:41:15 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 16:41:15 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960ef0beb1a64176fd5bf93"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:41:15 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960ef0beb1a64176fd5bf93"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:41:15 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:41:15 DEBUG FongoDBCollection:383 - remove: { "name" : "school.supporter"}
+2017-07-08 16:41:15 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 16:41:15 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 16:41:15 DEBUG FongoDBCollection:496 - the db school looks like 0
+2017-07-08 16:41:15 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 16:41:15 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:41:15 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:41:15 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 16:41:15 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}
+2017-07-08 16:41:15 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:41:15 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:41:15 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 16:41:15 DEBUG FongoDBCollection:496 - the db school looks like 1
+2017-07-08 16:41:15 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 16:41:15 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960ef0beb1a64176fd5bf94"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:41:15 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960ef0beb1a64176fd5bf94"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:41:15 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:41:15 DEBUG FongoDBCollection:383 - remove: { "name" : "school.supporter"}
+2017-07-08 16:41:15 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 16:42:01 ERROR SupporterTest:70 - Errore nell'immissione delle credenziali
+2017-07-08 16:42:01 INFO  SupporterTest:60 - Login effettuato con successo
+2017-07-08 16:42:01 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 16:42:01 DEBUG FongoDBCollection:496 - the db school looks like 0
+2017-07-08 16:42:01 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 16:42:01 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:42:01 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:42:01 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 16:42:01 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}
+2017-07-08 16:42:01 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:42:01 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:42:01 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 16:42:01 DEBUG FongoDBCollection:496 - the db school looks like 1
+2017-07-08 16:42:01 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 16:42:01 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960ef39eb1a32a1d05c2ec8"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:42:01 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960ef39eb1a32a1d05c2ec8"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:42:01 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:42:01 DEBUG FongoDBCollection:383 - remove: { "name" : "school.supporter"}
+2017-07-08 16:42:01 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 16:42:01 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 16:42:01 DEBUG FongoDBCollection:496 - the db school looks like 0
+2017-07-08 16:42:01 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 16:42:01 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:42:01 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:42:01 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 16:42:01 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}
+2017-07-08 16:42:01 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:42:01 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:42:01 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 16:42:01 DEBUG FongoDBCollection:496 - the db school looks like 1
+2017-07-08 16:42:01 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 16:42:01 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960ef39eb1a32a1d05c2ec9"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:42:01 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960ef39eb1a32a1d05c2ec9"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:42:01 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:42:01 DEBUG FongoDBCollection:383 - remove: { "name" : "school.supporter"}
+2017-07-08 16:42:01 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 16:42:01 INFO  CarrelloTest:57 - Si sta richiamando addItem() non passandogli nessun oggetto
+2017-07-08 16:46:28 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 16:46:28 DEBUG FongoDBCollection:496 - the db school looks like 0
+2017-07-08 16:46:28 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 16:46:28 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:46:28 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:46:28 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 16:46:28 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}
+2017-07-08 16:46:28 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:46:28 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:46:28 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 16:46:28 DEBUG FongoDBCollection:496 - the db school looks like 1
+2017-07-08 16:46:28 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 16:46:28 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960f044eb1acf2b94f37a89"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:46:28 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960f044eb1acf2b94f37a89"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:46:28 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:46:29 DEBUG FongoDBCollection:383 - remove: { "name" : "school.supporter"}
+2017-07-08 16:46:29 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 16:46:29 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 16:46:29 DEBUG FongoDBCollection:496 - the db school looks like 0
+2017-07-08 16:46:29 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 16:46:29 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:46:29 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:46:29 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 16:46:29 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}
+2017-07-08 16:46:29 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:46:29 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:46:29 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 16:46:29 DEBUG FongoDBCollection:496 - the db school looks like 1
+2017-07-08 16:46:29 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 16:46:29 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960f045eb1acf2b94f37a8a"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:46:29 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960f045eb1acf2b94f37a8a"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:46:29 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:46:29 DEBUG FongoDBCollection:383 - remove: { "name" : "school.supporter"}
+2017-07-08 16:46:29 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 16:49:26 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 16:49:26 DEBUG FongoDBCollection:496 - the db school looks like 0
+2017-07-08 16:49:26 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 16:49:26 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:49:26 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:49:26 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 16:49:26 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}
+2017-07-08 16:49:26 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:49:26 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:49:26 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 16:49:26 DEBUG FongoDBCollection:496 - the db school looks like 1
+2017-07-08 16:49:26 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 16:49:26 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960f0f6eb1a19c8bc3e5dd9"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:49:26 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960f0f6eb1a19c8bc3e5dd9"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:49:26 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:49:26 DEBUG FongoDBCollection:383 - remove: { "name" : "school.supporter"}
+2017-07-08 16:49:26 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 16:49:26 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 16:49:26 DEBUG FongoDBCollection:496 - the db school looks like 0
+2017-07-08 16:49:26 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 16:49:26 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:49:26 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:49:26 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 16:49:26 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}
+2017-07-08 16:49:26 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:49:26 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:49:26 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 16:49:26 DEBUG FongoDBCollection:496 - the db school looks like 1
+2017-07-08 16:49:26 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 16:49:26 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960f0f6eb1a19c8bc3e5dda"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:49:26 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960f0f6eb1a19c8bc3e5dda"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:49:26 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:49:26 DEBUG FongoDBCollection:383 - remove: { "name" : "school.supporter"}
+2017-07-08 16:49:26 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 16:50:39 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 16:50:39 DEBUG FongoDBCollection:496 - the db school looks like 0
+2017-07-08 16:50:39 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 16:50:39 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:50:39 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:50:39 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 16:50:39 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}
+2017-07-08 16:50:39 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:50:39 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:50:39 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 16:50:39 DEBUG FongoDBCollection:496 - the db school looks like 1
+2017-07-08 16:50:39 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 16:50:39 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960f13feb1ac99a12af064c"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:50:39 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960f13feb1ac99a12af064c"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:50:39 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:50:39 DEBUG FongoDBCollection:383 - remove: { "name" : "school.supporter"}
+2017-07-08 16:50:39 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 16:50:39 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 16:50:39 DEBUG FongoDBCollection:496 - the db school looks like 0
+2017-07-08 16:50:39 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 16:50:39 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:50:39 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 16:50:39 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 16:50:39 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}
+2017-07-08 16:50:39 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:50:39 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 16:50:39 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 16:50:39 DEBUG FongoDBCollection:496 - the db school looks like 1
+2017-07-08 16:50:39 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 16:50:39 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960f13feb1ac99a12af064d"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:50:39 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960f13feb1ac99a12af064d"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:50:39 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "school.supporter" , "name" : "_id_"}]
+2017-07-08 16:50:39 DEBUG FongoDBCollection:383 - remove: { "name" : "school.supporter"}
+2017-07-08 16:50:39 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 17:14:40 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 17:14:40 DEBUG FongoDBCollection:496 - the db DBshop looks like 0
+2017-07-08 17:14:40 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 17:14:40 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 17:14:40 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 17:14:40 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 17:14:40 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}
+2017-07-08 17:14:40 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 17:14:40 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 17:14:40 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 17:14:40 DEBUG FongoDBCollection:496 - the db DBshop looks like 1
+2017-07-08 17:14:40 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 17:14:40 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960f6e0eb1af3ac3b61e192"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-08 17:14:40 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960f6e0eb1af3ac3b61e192"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-08 17:14:40 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-08 17:14:40 DEBUG FongoDBCollection:383 - remove: { "name" : "DBshop.supporter"}
+2017-07-08 17:14:40 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-08 17:14:40 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-08 17:14:40 DEBUG FongoDBCollection:496 - the db DBshop looks like 0
+2017-07-08 17:14:40 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-08 17:14:40 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 17:14:40 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-08 17:14:40 DEBUG FongoDBCollection:556 - found results []
+2017-07-08 17:14:40 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}
+2017-07-08 17:14:41 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 17:14:41 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-08 17:14:41 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-08 17:14:41 DEBUG FongoDBCollection:496 - the db DBshop looks like 1
+2017-07-08 17:14:41 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-08 17:14:41 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960f6e0eb1af3ac3b61e193"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-08 17:14:41 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5960f6e0eb1af3ac3b61e193"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-08 17:14:41 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-08 17:14:41 DEBUG FongoDBCollection:383 - remove: { "name" : "DBshop.supporter"}
+2017-07-08 17:14:41 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
