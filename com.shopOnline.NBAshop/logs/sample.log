@@ -632,3 +632,77 @@
 2017-07-09 17:00:37 DEBUG FongoDBCollection:383 - remove: { "name" : "DBshop.supporter"}
 2017-07-09 17:00:37 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
 2017-07-09 17:00:37 INFO  CarrelloTest:65 - Si sta richiamando addItem() non passandogli nessun oggetto
+2017-07-09 18:55:41 ERROR SupporterTest:70 - Errore nell'immissione delle credenziali
+2017-07-09 18:55:41 INFO  SupporterTest:60 - Login effettuato con successo
+2017-07-09 18:55:42 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-09 18:55:42 DEBUG FongoDBCollection:496 - the db DBshop looks like 0
+2017-07-09 18:55:42 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-09 18:55:42 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-09 18:55:42 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-09 18:55:42 DEBUG FongoDBCollection:556 - found results []
+2017-07-09 18:55:42 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}
+2017-07-09 18:55:42 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-09 18:55:42 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-09 18:55:42 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-09 18:55:42 DEBUG FongoDBCollection:496 - the db DBshop looks like 1
+2017-07-09 18:55:42 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-09 18:55:42 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5962600e4c2ae294a6527587"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-09 18:55:42 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5962600e4c2ae294a6527587"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-09 18:55:42 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-09 18:55:42 DEBUG FongoDBCollection:383 - remove: { "name" : "DBshop.supporter"}
+2017-07-09 18:55:42 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-09 18:55:42 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-09 18:55:42 DEBUG FongoDBCollection:496 - the db DBshop looks like 0
+2017-07-09 18:55:42 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-09 18:55:42 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-09 18:55:42 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-09 18:55:42 DEBUG FongoDBCollection:556 - found results []
+2017-07-09 18:55:42 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}
+2017-07-09 18:55:42 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-09 18:55:42 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-09 18:55:42 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-09 18:55:42 DEBUG FongoDBCollection:496 - the db DBshop looks like 1
+2017-07-09 18:55:42 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-09 18:55:42 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5962600e4c2ae294a6527588"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-09 18:55:42 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5962600e4c2ae294a6527588"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-09 18:55:42 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-09 18:55:42 DEBUG FongoDBCollection:383 - remove: { "name" : "DBshop.supporter"}
+2017-07-09 18:55:42 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-09 18:55:42 INFO  CarrelloTest:65 - Si sta richiamando addItem() non passandogli nessun oggetto
+2017-07-09 20:42:35 ERROR SupporterTest:70 - Errore nell'immissione delle credenziali
+2017-07-09 20:42:35 INFO  SupporterTest:60 - Login effettuato con successo
+2017-07-09 20:42:35 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-09 20:42:35 DEBUG FongoDBCollection:496 - the db DBshop looks like 0
+2017-07-09 20:42:35 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-09 20:42:35 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-09 20:42:35 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-09 20:42:35 DEBUG FongoDBCollection:556 - found results []
+2017-07-09 20:42:35 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}
+2017-07-09 20:42:35 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-09 20:42:35 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-09 20:42:35 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-09 20:42:35 DEBUG FongoDBCollection:496 - the db DBshop looks like 1
+2017-07-09 20:42:35 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-09 20:42:35 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5962791b4c2a03267e9094da"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-09 20:42:35 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5962791b4c2a03267e9094da"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-09 20:42:35 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-09 20:42:35 DEBUG FongoDBCollection:383 - remove: { "name" : "DBshop.supporter"}
+2017-07-09 20:42:35 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-09 20:42:35 DEBUG FongoDBCollection:495 - find({ "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}, null).skip(0).limit(-1)
+2017-07-09 20:42:35 DEBUG FongoDBCollection:496 - the db DBshop looks like 0
+2017-07-09 20:42:35 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [v, key, ns, name]
+2017-07-09 20:42:35 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-09 20:42:35 DEBUG FongoDBCollection:935 - sorted objectsToSearch []
+2017-07-09 20:42:35 DEBUG FongoDBCollection:556 - found results []
+2017-07-09 20:42:35 DEBUG FongoDBCollection:114 - insert: { "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}
+2017-07-09 20:42:35 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-09 20:42:35 DEBUG FongoDBCollection:721 - applying projections { "_id" : 1}
+2017-07-09 20:42:35 DEBUG FongoDBCollection:495 - find({ }, null).skip(0).limit(0)
+2017-07-09 20:42:35 DEBUG FongoDBCollection:496 - the db DBshop looks like 1
+2017-07-09 20:42:35 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields []
+2017-07-09 20:42:35 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5962791b4c2a03267e9094db"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-09 20:42:35 DEBUG FongoDBCollection:935 - sorted objectsToSearch [{ "_id" : { "$oid" : "5962791b4c2a03267e9094db"} , "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-09 20:42:35 DEBUG FongoDBCollection:556 - found results [{ "v" : 1 , "key" : { "_id" : 1} , "ns" : "DBshop.supporter" , "name" : "_id_"}]
+2017-07-09 20:42:35 DEBUG FongoDBCollection:383 - remove: { "name" : "DBshop.supporter"}
+2017-07-09 20:42:35 DEBUG FongoDBCollection:1189 - searchIndex() found index null for fields [name]
+2017-07-09 20:42:36 INFO  CarrelloTest:65 - Si sta richiamando addItem() non passandogli nessun oggetto
